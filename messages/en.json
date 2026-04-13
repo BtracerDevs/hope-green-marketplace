@@ -1,0 +1,288 @@
+{
+  "LandingPage": {
+    "title": "Sowing the Future",
+    "meta": {
+      "title": "Sowing the Future",
+      "description": "Sowing the Future LP — turning ideas into reality"
+    },
+    "nav": {
+      "about": "About",
+      "solution": "Solution",
+      "benefits": "Benefits",
+      "contact": "Contact"
+    },
+    "hero": {
+      "heading": "Plant tomorrow with OSTEN",
+      "cta": "I Want to Join"
+    },
+    "howItWorks": {
+      "title": "HOW DOES IT WORK?",
+      "step1": "An OSTEN customer acquires NFTs tied to a family farmer's property in the municipalities of Iranduba, Canutama, or Rio Preto da Eva.",
+      "step2": "OSTEN subsidizes the program by purchasing the same number of NFTs acquired by the customer.",
+      "step3": "The customer can track the progress of their planting through the NFT on the platform.",
+      "step4": "In this way, both OSTEN customers and the OSTEN Group help drive social and environmental sustainability on the planet."
+    },
+    "infoCards": {
+      "nftsIssued": "For each tree seedling purchased, NFTs are issued to the OSTEN customer who joins the program.",
+      "cost": "Each NFT costs R$90 and funds the maintenance of one seedling for 5 years."
+    },
+    "about": {
+      "badge": "OSTEN Program",
+      "title": "Sustainable NFT",
+      "h3": "Plant a tree. Grow a future.",
+      "p1": "The OSTEN Program is more than an environmental project — it is a gesture of hope.",
+      "p2": "Each NFT represents a real seedling planted in the Amazon, supporting family farming and protecting what we can still save.",
+      "p3": "Alongside HOPE GREEN, we unite innovation and purpose to generate income for local communities, preserve traditions, and keep alive the forest that sustains the world.",
+      "p4": "With every contribution, you don’t just plant a tree — you strengthen families, build a legacy, and tell the future: \"We care\".",
+      "p5": "Join us. Because the future is built now — one tree at a time."
+    },
+    "solution": {
+      "title": "Our Solution",
+      "cards": {
+        "overview": {
+          "title": "GBR NFT SHOWCASE",
+          "body": "Want to see some NFTs? View here the first NFTs acquired by OSTEN for the project."
+        },
+        "buy": {
+          "title": "BUY HERE",
+          "body": "Start investing today in the Amazon’s tomorrow by supporting Family Farming."
+        },
+        "myNfts": {
+          "title": "VIEW YOUR PURCHASED NFTs",
+          "body": "Connect your wallet and annually track the development of the seedlings represented by your NFTs."
+        }
+      }
+    },
+    "benefits": {
+      "header": {
+        "line1": "Partnership for Sustainable Practice",
+        "line2": "OSTEN Sustainability",
+        "title": "Benefits"
+      },
+      "social": {
+        "title": "SOCIAL",
+        "count": "75",
+        "label": "People Impacted",
+        "text": "Family farming strengthens forest maintenance as it benefits from increased production and revenue."
+      },
+      "environmental": {
+        "title": "ENVIRONMENTAL",
+        "count": "6,152",
+        "label": "Seedlings Planted",
+        "text": "Family farming strengthens forest maintenance as it benefits from increased production and revenue."
+      },
+      "sustainable": {
+        "title": "SUSTAINABLE",
+        "count": "51",
+        "label": "Hectares Restored",
+        "text": "The forest benefits from reforestation, and society gains the assurance of a sustainable future for the next generation."
+      }
+    },
+    "cta": {
+      "title": "Ready to sow the future?",
+      "subtitle": "Get in touch and join us!",
+      "button": "Contact Us"
+    },
+    "footer": {
+      "copyright": "Sowing the Future. All rights reserved."
+    }
+  },
+  "HomePage": {
+    "map": {
+      "caption": "Map of NFT locations"
+    },
+    "labels": {
+      "hectares": "Hectares",
+      "location": "Location"
+    },
+    "actions": {
+      "viewProducer": "View Producer"
+    }
+  },
+  "Header": {
+    "title": "Welcome",
+    "subtitle": "See trending NFTs and import yours.",
+    "menu": {
+      "open": "Open menu"
+    }
+  },
+  "WalletConnect": {
+    "connect": "Connect Wallet",
+    "wrongNetwork": "Wrong Network",
+    "openConnect": "Open connect modal",
+    "openChain": "Open network modal",
+    "openAccount": "Open account modal"
+  },
+  "Sidebar": {
+    "aria": {
+      "sidebar": "Sidebar",
+      "close": "Close Sidebar"
+    },
+    "brand": {
+      "primaryAlt": "OSTEN logo",
+      "secondaryAlt": "Logo"
+    },
+    "search": {
+      "label": "Search",
+      "placeholder": "Search"
+    },
+    "nav": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "showcase": "GBR Showcase",
+      "yourNfts": "Your NFTs",
+      "producers": "Farmers",
+      "buyHere": "Buy Here"
+    },
+    "support": {
+      "label": "Support",
+      "mailtoSubject": "OSTEN Support",
+      "mailtoBody": "Hello, I need help with..."
+    }
+  },
+  "Overview": {
+    "heading": "NFTs",
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next",
+      "page": "Page {page}"
+    },
+    "actions": {
+      "view": "View"
+    },
+    "empty": {
+      "title": "No NFTs found on this page."
+    },
+    "loading": {
+      "aria": "Loading"
+    }
+  },
+  "NFTDetails": {
+    "loading": "Loading...",
+    "unavailable": "Data not available.",
+    "buttons": {
+      "prevImg": "Previous image",
+      "nextImg": "Next image",
+      "viewOnPolygonscan": "View on Polygonscan"
+    },
+    "meta": {
+      "producer": "Producer",
+      "address": "Address",
+      "date": "Date",
+      "id": "ID",
+      "name": "Name",
+      "type": "Type",
+      "email": "Email",
+      "phone": "Phone",
+      "latitude": "Latitude",
+      "longitude": "Longitude"
+    },
+    "map": {
+      "caption": "Planting location"
+    }
+  },
+  "Nfts": {
+    "heading": "Your NFTs",
+    "wallet": {
+      "notConnected": "Wallet not connected, please connect your wallet!"
+    },
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next",
+      "page": "Page {page}"
+    },
+    "actions": {
+      "view": "View"
+    },
+    "empty": {
+      "title": "No NFTs found!"
+    },
+    "loading": {
+      "aria": "Loading"
+    }
+  },
+  "MyNFTDetails": {
+    "loading": "Loading...",
+    "unavailable": "Data not available.",
+    "buttons": {
+      "prevImg": "Previous image",
+      "nextImg": "Next image"
+    },
+    "meta": {
+      "producer": "Producer",
+      "address": "Address",
+      "date": "Date",
+      "id": "ID",
+      "name": "Name",
+      "type": "Type",
+      "email": "Email",
+      "phone": "Phone",
+      "latitude": "Latitude",
+      "longitude": "Longitude"
+    },
+    "map": {
+      "caption": "Planting location"
+    }
+  },
+  "Producers": {
+    "heading": "Meet our farmers",
+    "card": {
+      "nftsCount": "NFTs {count}",
+      "inCirculation": "In circulation {count}",
+      "sold": "Sold {count}"
+      
+    },
+    "actions": {
+      "view": "View"
+    },
+    "empty": {
+      "title": "No producers found."
+    },
+    "loading": {
+      "aria": "Loading"
+    }
+  },
+  "ProducerDetails": {
+    "loading": "Loading...",
+    "unavailable": "Data not available.",
+    "carousel": {
+      "prevImg": "Previous image",
+      "nextImg": "Next image"
+    },
+    "cardDetails": {
+      "target": "NFT Target",
+      "completed": "Completed",
+      "sold": "Sold",
+      "totalCollection": "Total Collection",
+      "buyHere": "Buy Here"
+    },
+    "sections": {
+      "address": "Address",
+      "hectares": "Hectares",
+      "forestSeedlings": "Forest Seedlings",
+      "fruitSeedlings": "Fruit Seedlings",
+      "industrialSeedlings": "Industrial Seedlings",
+      "nfts": "NFTs"
+    },
+    "chart": {
+      "title": "Seedlings Purchase and Sale",
+      "legend": {
+        "inStock": "In Stock",
+        "sold": "Sold"
+      },
+      "quantity": "Quantity"
+    },
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next",
+      "page": "Page {page}"
+    },
+    "actions": {
+      "view": "View"
+    },
+    "empty": {
+      "nfts": "No NFTs found on this page."
+    },
+    "loadingAria": "Loading"
+  }
+}

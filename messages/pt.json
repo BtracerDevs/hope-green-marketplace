@@ -1,0 +1,287 @@
+{
+    "LandingPage": {
+        "title": "Semeando o Futuro",
+        "meta": {
+            "title": "Semeando o Futuro",
+            "description": "LP Semeando o Futuro – transformando ideias em realidade"
+        },
+        "nav": {
+            "about": "Sobre",
+            "solution": "Solução",
+            "benefits": "Benefícios",
+            "contact": "Contato"
+        },
+        "hero": {
+            "heading": "Plante o amanhã com a OSTEN",
+            "cta": "Quero Participar"
+        },
+        "howItWorks": {
+            "title": "COMO FUNCIONA?",
+            "step1": "Cliente Osten adquire as NFTs da propriedade de um agricultor familiar dos municípios de Iranduba, Canutama ou Rio Preto da Eva.",
+            "step2": "A Osten subsidia o programa ao comprar a mesma quantidade de NFTs adquiridas pelo cliente.",
+            "step3": "O cliente pode acompanhar o andamento do seu plantio por meio do seu NFT adquirido via plataforma.",
+            "step4": "Dessa forma, tanto o cliente Osten como a Osten Group poderão contribuir para a sustentabilidade social e ambiental do planeta."
+        },
+        "infoCards": {
+            "nftsIssued": "Para cada muda de árvores adquirida, são emitidos NFTs para o cliente Osten que aderir ao programa.",
+            "cost": "Cada NFT custa R$90 reais, para manutenção de 1 muda por 5 anos."
+        },
+        "about": {
+            "badge": "Programa Osten",
+            "title": "NFT Sustentável",
+            "h3": "Plante uma árvore. Cultive um futuro.",
+            "p1": "O Programa Osten é mais do que um projeto ambiental — é um gesto de esperança.",
+            "p2": "Cada NFT representa uma muda real plantada na Amazônia, apoiando a agricultura familiar e protegendo o que ainda podemos salvar.",
+            "p3": "Ao lado da HOPE GREEN, unimos inovação e propósito para gerar renda às comunidades locais, preservar tradições e manter viva a floresta que sustenta o mundo.",
+            "p4": "Com cada contribuição, você não apenas planta uma árvore — você fortalece famílias, constrói um legado e diz ao futuro: \"Nós cuidamos\".",
+            "p5": "Junte-se a nós. Porque o futuro se constrói agora — uma árvore de cada vez."
+        },
+        "solution": {
+            "title": "Nossa Solução",
+            "cards": {
+                "overview": {
+                    "title": "VITRINE DE NFTS DA OSTEN",
+                    "body": "Quer ver algumas NFTs? Visualize aqui as primeiras NFTs adquiridas pela Osten para o projeto."
+                },
+                "buy": {
+                    "title": "COMPRE AQUI",
+                    "body": "Come a investir hoje mesmo no amanhã da Amazônia por meio do apoio à Agricultura Familiar."
+                },
+                "myNfts": {
+                    "title": "CONSULTE SUAS NFTS ADQUIRIDAS",
+                    "body": "Conecte sua wallet e acompanhe anualmente o desenvolvimento das mudas representadas pelas suas NFTs."
+                }
+            }
+        },
+        "benefits": {
+            "header": {
+                "line1": "Parceria para prática",
+                "line2": "Sustentável Osten",
+                "title": "Benefícios"
+            },
+            "social": {
+                "title": "SOCIAIS",
+                "count": "75",
+                "label": "Pessoas Impactadas",
+                "text": "A agricultura familiar fortalece a manutenção da floresta à medida que se beneficia com o aumento da produção e receita."
+            },
+            "environmental": {
+                "title": "AMBIENTAIS",
+                "count": "6.152",
+                "label": "Mudas Plantadas",
+                "text": "A agricultura familiar fortalece a manutenção da floresta à medida que se beneficia com o aumento da produção e receita."
+            },
+            "sustainable": {
+                "title": "SUSTENTÁVEIS",
+                "count": "51",
+                "label": "Hectare Restaurados",
+                "text": "A floresta ganha com seu reflorestamento, a sociedade ganha com uma garantia de um futuro sustentável para a próxima geração."
+            }
+        },
+        "cta": {
+            "title": "Pronto para semear o futuro?",
+            "subtitle": "Entre em contato e junte-se a nós!",
+            "button": "Fale Conosco"
+        },
+        "footer": {
+            "copyright": "Semeando o Futuro. Todos os direitos reservados."
+        }
+    },
+    "HomePage": {
+        "map": {
+            "caption": "Mapa da localização dos NFTs"
+        },
+        "labels": {
+            "hectares": "Hectares",
+            "location": "Localização"
+        },
+        "actions": {
+            "viewProducer": "Ver Produtor"
+        }
+    },
+    "Header": {
+        "title": "Bem Vindo",
+        "subtitle": "Veja as NFTs em alta e importe a sua.",
+        "menu": {
+            "open": "Abrir menu"
+        }
+    },
+    "WalletConnect": {
+        "connect": "Conecte sua Wallet",
+        "wrongNetwork": "Rede Incorreta",
+        "openConnect": "Abrir modal de conexão",
+        "openChain": "Abrir modal de rede",
+        "openAccount": "Abrir modal da conta"
+    },
+    "Sidebar": {
+        "aria": {
+            "sidebar": "Barra lateral",
+            "close": "Fechar Sidebar"
+        },
+        "brand": {
+            "primaryAlt": "Logo da OSTEN",
+            "secondaryAlt": "Logo"
+        },
+        "search": {
+            "label": "Pesquisar",
+            "placeholder": "Pesquisar"
+        },
+        "nav": {
+            "home": "Início",
+            "dashboard": "Dashboard",
+            "showcase": "Vitrine GBR",
+            "yourNfts": "Suas NFTs",
+            "producers": "Agricultores",
+            "buyHere": "Compre Aqui"
+        },
+        "support": {
+            "label": "Suporte",
+            "mailtoSubject": "Suporte Osten",
+            "mailtoBody": "Olá, preciso de ajuda com..."
+        }
+    },
+    "Overview": {
+        "heading": "NFTs",
+        "pagination": {
+            "prev": "Anterior",
+            "next": "Próxima",
+            "page": "Página {page}"
+        },
+        "actions": {
+            "view": "Visualizar"
+        },
+        "empty": {
+            "title": "Nenhuma NFT encontrada nesta página."
+        },
+        "loading": {
+            "aria": "Carregando"
+        }
+    },
+    "NFTDetails": {
+        "loading": "Carregando...",
+        "unavailable": "Dados não disponíveis.",
+        "buttons": {
+            "prevImg": "Imagem anterior",
+            "nextImg": "Próxima imagem",
+            "viewOnPolygonscan": "Ver no Polygonscan"
+        },
+        "meta": {
+            "producer": "Produtor",
+            "address": "Endereço",
+            "date": "Data",
+            "id": "ID",
+            "name": "Nome",
+            "type": "Tipo",
+            "email": "E-mail",
+            "phone": "Telefone",
+            "latitude": "Latitude",
+            "longitude": "Longitude"
+        },
+        "map": {
+            "caption": "Local do plantio"
+        }
+    },
+    "Nfts": {
+        "heading": "Suas NFTs",
+        "wallet": {
+            "notConnected": "Wallet não conectada, por favor conecte sua wallet!"
+        },
+        "pagination": {
+            "prev": "Anterior",
+            "next": "Próxima",
+            "page": "Página {page}"
+        },
+        "actions": {
+            "view": "Visualizar"
+        },
+        "empty": {
+            "title": "Nenhuma NFT encontrada!"
+        },
+        "loading": {
+            "aria": "Carregando"
+        }
+    },
+    "MyNFTDetails": {
+        "loading": "Carregando...",
+        "unavailable": "Dados não disponíveis.",
+        "buttons": {
+            "prevImg": "Imagem anterior",
+            "nextImg": "Próxima imagem"
+        },
+        "meta": {
+            "producer": "Produtor",
+            "address": "Endereço",
+            "date": "Data",
+            "id": "ID",
+            "name": "Nome",
+            "type": "Tipo",
+            "email": "E-mail",
+            "phone": "Telefone",
+            "latitude": "Latitude",
+            "longitude": "Longitude"
+        },
+        "map": {
+            "caption": "Local do plantio"
+        }
+    },
+    "Producers": {
+        "heading": "Conheça nossos agricultores",
+        "card": {
+            "nftsCount": "NFTs {count}",
+            "inCirculation": "Em circulação {count}",
+            "sold": "Vendidos {count}"
+        },
+        "actions": {
+            "view": "Visualizar"
+        },
+        "empty": {
+            "title": "Nenhum agricultor encontrado."
+        },
+        "loading": {
+            "aria": "Carregando"
+        }
+    },
+    "ProducerDetails": {
+        "loading": "Carregando...",
+        "unavailable": "Dados não disponíveis.",
+        "carousel": {
+            "prevImg": "Imagem anterior",
+            "nextImg": "Próxima imagem"
+        },
+        "cardDetails": {
+            "target": "Meta de NFT",
+            "completed": "Concluído",
+            "sold": "Vendido",
+            "totalCollection": "Coleção total",
+            "buyHere": "Compre aqui"
+        },
+        "sections": {
+            "address": "Endereço",
+            "hectares": "Hectares",
+            "forestSeedlings": "Mudas Florestais",
+            "fruitSeedlings": "Mudas Frutíferas",
+            "industrialSeedlings": "Mudas Industriais",
+            "nfts": "NFTs"
+        },
+        "chart": {
+            "title": "Compra e venda de mudas",
+            "legend": {
+                "inStock": "Em Estoque",
+                "sold": "Vendidas"
+            },
+            "quantity": "Quantidade"
+        },
+        "pagination": {
+            "prev": "Anterior",
+            "next": "Próxima",
+            "page": "Página {page}"
+        },
+        "actions": {
+            "view": "Visualizar"
+        },
+        "empty": {
+            "nfts": "Nenhuma NFT encontrada nesta página."
+        },
+        "loadingAria": "Carregando"
+    }
+}
