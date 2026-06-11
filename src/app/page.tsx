@@ -708,9 +708,9 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-8 mb-8">
             <div>
-              <h4 className="font-bold text-primary mb-4">GBR Componentes</h4>
+              <h4 className="font-bold text-primary mb-4">Btracer</h4>
               <p className="text-sm text-foreground/70">
-                Indústria de componentes da Amazônia comprometida com a sustentabilidade.
+                Tecnologias digitais para a agricultura familiar.
               </p>
             </div>
             <div>
@@ -724,8 +724,8 @@ export default function Home() {
             <div>
               <h4 className="font-bold text-primary mb-4">Parceiros</h4>
               <ul className="space-y-2 text-sm text-foreground/70">
-                <li><a href="/dashboard" className="hover:text-primary transition">Hope Green Agro</a></li>
-                <li><a href="/dashboard" className="hover:text-primary transition">GBR</a></li>
+                <li><a href="/dashboard" className="hover:text-primary transition">Osten Motors</a></li>
+                <li><a href="/dashboard" className="hover:text-primary transition">IDAM</a></li>
                 <li><a href="/dashboard" className="hover:text-primary transition">Comunidades</a></li>
               </ul>
             </div>
@@ -734,15 +734,15 @@ export default function Home() {
               <ul className="space-y-2 text-sm text-foreground/70 break-all">
                 <li>
                   <a
-                    href="mailto:contato@gbrcomponentes.com.br"
+                    href="mailto:contato@btracer.com.br"
                     className="hover:text-primary transition"
                   >
-                    contato@gbrcomponentes.com.br
+                    contato@btracer.com.br
                   </a>
                 </li>
                 <li>
-                  <a href="tel:+5592" className="hover:text-primary transition">
-                    +55 92 XXXX-XXXX
+                  <a href="tel:+5592812364442" className="hover:text-primary transition">
+                    +55 92 8123-6442
                   </a>
                 </li>
               </ul>
@@ -750,7 +750,7 @@ export default function Home() {
           </div>
           <div className="border-t border-border pt-8 text-center text-sm text-foreground/70">
             <p>
-              &copy; 2026 GBR Componentes. Todos os direitos reservados. | Semeando o futuro, uma muda por vez.
+              &copy; 2026 Btracer. Todos os direitos reservados. | Semeando o futuro, uma muda por vez.
             </p>
           </div>
         </div>
