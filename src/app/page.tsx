@@ -362,12 +362,12 @@ export default function Home() {
       <nav className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 border-b border-border">
         <div className="container mx-auto px-4 sm:px-6 flex items-center justify-between py-4">
           <div className="flex items-center gap-2 min-w-0">
-            <Image src="/logo-amazonas.png" alt="Logo Amazonas" width={150} height={60}/>
+            <Image src="/logo-amazonas.png" alt="Logo Amazonas" width={150} height={60} />
           </div>
 
           {/* Desktop nav */}
           <div className="hidden md:flex items-center gap-8">
-            <Image src="/logo.png" alt="Hope Green Logo" width={120} height={40}/>
+            <Image src="/logo.png" alt="Hope Green Logo" width={120} height={40} />
             <a href="#missao" className="text-sm font-medium hover:text-primary transition">
               Missão
             </a>
@@ -538,14 +538,14 @@ export default function Home() {
               CONHEÇA NOSSOS GUARDIÕES
             </p>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-[#1A5632] mb-6">
-              Ramal do Laranjal e Nova Esperança
+              Manacapuru, Rio Preto da Eva, Iranduba e Canutama
             </h2>
             <p className="text-base sm:text-lg text-gray-700 leading-relaxed max-w-2xl mx-auto">
-              Agricultores de Manacapuru que dedicam suas vidas à preservação da Amazônia
+              Agricultores que dedicam suas vidas à preservação da Amazônia
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
                 name: "Marlon",
@@ -556,18 +556,49 @@ export default function Home() {
                 name: "Manuel Dourado",
                 role: "Agricultor Familiar e Guardião da Floresta em Manacapuru",
                 image: "/03.jpg"
-              }
+              },
+              {
+                name: "Valter Gonçalves da Silva Neto",
+                role: "Agricultor Familiar e Guardião da Floresta em Rio Preto da Eva",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Valter+Gon%C3%A7alves+da+Silva+Neto/pfp.jpeg"
+              },
+              {
+                name: "Charlinha Reis dos Santos",
+                role: "Agricultora Familiar e Guardiã da Floresta em Iranduba",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Charlinha+Reis+Dos+Santos/pfp.png"
+              },
+              {
+                name: "Francisco da Silva",
+                role: "Agricultor Familiar e Guardião da Floresta em Canutama",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Francisco+Da+Silva/pfp.png"
+              },
+              {
+                name: "Carla Cristina Pereira",
+                role: "Agricultora Familiar e Guardiã da Floresta em Canutama",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Carla+Cristina+Pereira/pfp.png"
+              },
+              {
+                name: "Reginaldo de Araújo Danta",
+                role: "Agricultor Familiar e Guardião da Floresta em Canutama",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Reginaldo+de+Ara%C3%BAjo+Danta+/pfp.jpeg"
+              },
+              {
+                name: "José Claudemar Serra Galvão e Silva",
+                role: "Agricultor Familiar e Guardião da Floresta em Canutama",
+                image: "https://osten-dash.s3.us-east-2.amazonaws.com/Jos%C3%A9+Claudemar+Serra+Galv%C3%A3o+e+Silva/pfp.jpeg"
+              },
+
             ].map((farmer, idx) => (
               <div key={idx} className="group cursor-pointer">
-                <div className="overflow-hidden rounded-lg mb-4 h-96 sm:h-[28rem] md:h-[32rem]">
+                <div className="overflow-hidden rounded-lg mb-4 h-72 sm:h-80">
                   <img
                     src={farmer.image}
                     alt={farmer.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition duration-300"
                   />
                 </div>
-                <h3 className="text-2xl sm:text-3xl font-bold text-[#1A5632] mb-2 text-center">{farmer.name}</h3>
-                <p className="text-sm sm:text-base text-gray-700 font-medium text-center">{farmer.role}</p>
+                <h3 className="text-xl sm:text-2xl font-bold text-[#1A5632] mb-2 text-center">{farmer.name}</h3>
+                <p className="text-sm text-gray-700 font-medium text-center">{farmer.role}</p>
               </div>
             ))}
           </div>
@@ -626,7 +657,7 @@ export default function Home() {
               { number: "75+", label: "Pessoas Impactadas", icon: "/icons/people.png" }
             ].map((stat, idx) => (
               <div key={idx} className="bg-white p-6 sm:p-8 rounded-lg text-center border border-border hover:shadow-lg transition flex items-center flex-col gap-4">
-                <img src={stat.icon} className="w-15 h-10"/>
+                <img src={stat.icon} className="w-15 h-10" />
                 <div className="text-4xl sm:text-5xl font-bold text-primary mb-2">{stat.number}</div>
                 <p className="text-base sm:text-lg text-foreground/70">{stat.label}</p>
               </div>
@@ -695,7 +726,7 @@ export default function Home() {
             </Button>
             <Button
               variant="default"
-                className="border-white border-2 text-white bg-primary hover:bg-white/10 w-full sm:w-auto"
+              className="border-white border-2 text-white bg-primary hover:bg-white/10 w-full sm:w-auto"
             >
               <a href="/dashboard" className="">Saiba Mais</a>
             </Button>
